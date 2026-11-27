@@ -1,0 +1,1 @@
+I deleted the production database, but on the bright side, the backups and I now have a great story for the postmortem.
